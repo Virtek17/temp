@@ -64,7 +64,7 @@ header {
 .hero {
   margin-top: 102px;
 
-  background-image: url("/img/hero_bg.png");
+  background-image: url("./img/hero_bg.png");
   background-repeat: no-repeat;
   background-position: top right;
   background-size: contain;
@@ -296,9 +296,6 @@ h1 {
 }
 .input {
   width: 344px;
-}
-
-.form-inputs__right {
 }
 
 .form-btn {
